@@ -1,4 +1,5 @@
 # Bluetooth Low Energy (BLE) Central Plugin for Apache Cordova
+# Modified by Fountain Technologies for connecting with kontact.io App
 
 This plugin enables communication between a phone and Bluetooth Low Energy (BLE) peripherals.
 
